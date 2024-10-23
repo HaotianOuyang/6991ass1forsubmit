@@ -1,0 +1,1 @@
+(fn(_) -> Result<(_, _), nom::Err<_>> {nom::character::complete::multispace1::<_, _>}, impl FnMut(_) -> Result<(_, _), nom::Err<_>>, fn(_) -> Result<(_, _), nom::Err<_>> {nom::character::complete::multispace1::<_, _>}, (&str, Condition))
